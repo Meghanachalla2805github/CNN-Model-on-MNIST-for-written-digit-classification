@@ -14,9 +14,6 @@ The model is structured with two convolutional layers, each followed by max-pool
 # Requirements
 Python 3
 
-
-
-
 TensorFlow
 
 Keras
@@ -25,6 +22,8 @@ Google colab (optional, for running the provided example notebook)
 
 # Keras implementation accuracy
 Train accuracy: 99.89%
+
 Test accuracy: 99.18%
 # Tensorflow implementation accuracy
+
 Test accuracy: 97.76%
