@@ -12,9 +12,9 @@ A Convolutional Neural Network (CNN) is a type of deep learning model specifical
 # Image classification CNN model on MNIST dataset
 The model is structured with two convolutional layers, each followed by max-pooling layers. The resulting output is flattened and passed through dense layers, ultimately producing the final classification output.
 # Requirements
-Python 3
-TensorFlow
-Keras
+Python 3,
+TensorFlow,
+Keras,
 Google colab (optional, for running the provided example notebook)
 
 # Keras implementation accuracy
